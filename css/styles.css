@@ -2,7 +2,15 @@ body {
   background-color: #deb887;
 }
 
+.floatMyImage {
+  float:left;
+}
+
 .bodyFont {
   text-align: center;
 }
 
+.textColor {
+  background-color: #7604b8;
+  color: #deb887;
+}
