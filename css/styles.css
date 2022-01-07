@@ -6,8 +6,28 @@ body {
   float:left;
 }
 
-.bodyFont {
-  text-align: center;
+.makeMyTextBling {
+  font-weight: bold;
+}
+
+.textBorderBox1 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width:20px;
+  background-color: #ce4214;
+  margin-bottom:10px;
+  float: right;
+}
+
+.textBorderBox2 {
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width:20px;
+  background-color: #ce4214;
+  margin-bottom:10px;
+  float: left;
 }
 
 .textColor {
